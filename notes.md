@@ -51,6 +51,9 @@ A storage location for your project ,including all the files and the entire hist
 
 * `.gitignore` : this the file where you can put the files and folder name which you don't want to be tracked 
 * `git add .` -> to send all the files current snapshot to staging area
+* `git add .` -> to send all the files current snapshot to staging area
+* `git commit -m` : A snapshot of changes made to the repository.each commit has a unique ID and a message describing the changes
+* `git log`: list of commits
 
 
 
