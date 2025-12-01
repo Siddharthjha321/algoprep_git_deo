@@ -9,9 +9,7 @@ for (let i = arr.length - 1; i > 0; i--) {
     [arr[i], arr[j]] = [arr[j], arr[i]];
 }
 console.log(`Shuffled array: ${arr}`);
-gjhcfbvhfkjvbfdkjhvbf
-dhdsbhjcbdkbdbdjhb
-jbvjhbhdbsjhchjvhvhjbf
+
 
 // Random string generator
 const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
