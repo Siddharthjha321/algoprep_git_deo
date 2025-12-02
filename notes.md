@@ -31,9 +31,7 @@ git config --global user.email "youremail@example.com"
 # how git stores the changes
 * git has three areas -> working directory -> current changes
 * Intermediate layer -> staging
-hfududtcyh,jhj,yhvfvyhj
-fbvhjfbvkhbs,jdbjd
-badfuhuhufdubfhvfbjbv 
+
 
 
 ## Term
