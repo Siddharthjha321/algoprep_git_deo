@@ -52,6 +52,24 @@ A storage location for your project ,including all the files and the entire hist
 * `git add .` -> to send all the files current snapshot to staging area
 * `git commit -m` : A snapshot of changes made to the repository.each commit has a unique ID and a message describing the changes
 * `git log`: list of commits
+* `git checkout commit-hash` : you can view how codelooked like in a particular commit
+* to go back to latest commit -> `HEAD` 
+  * type git branch -> check your branch name
+  * `git checkout branch-name`
+
+
+
+  ### commands to push your changes
+  **Setup remote repo**
+  * create a repo in github
+  * git remote add origin `remote-repo-name`
+  *
+  * git branch -M main
+
+    <!-- usuall drill -->
+  * git push -u origin main
+
+
 
 
 
